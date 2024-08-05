@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 11 update 3  1",
+      "price": 11001,
+      "image": "https://picsum.photos/100/100",
+      "description": "Mô tả sản phẩm 11",
+      "id": 12
+    },
+    {
+      "name": "sản phẩm 2 update",
+      "price": 20.32,
+      "image": "https://picsum.photos/100/100",
+      "description": "miêu tả sản phẩm 2",
+      "id": 13
+    },
+    {
+      "name": "sản phẩm 1 update",
+      "price": 1,
+      "image": "https://picsum.photos/100/100",
+      "description": "sản phẩm",
+      "id": 17
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user@example.com",
+      "username": "user123",
+      "password": "password123"
+    },
+    {
+      "email": "Long@gmail.com",
+      "password": "$2a$10$8wklyxZT0egWEfBr4WE4R.p3y9oRqI1olCBKSKUjhMHfwjczVLskK",
+      "username": "long",
+      "id": 2
+    },
+    {
+      "email": "Long2@gmail.com",
+      "password": "$2a$10$2jUrj/FrEL8hB8/qoC.ZoeXKF4YecTRj8CX5W2U.rP1.sY7p6EUoS",
+      "username": "longg",
+      "id": 3
+    },
+    {
+      "email": "long@gmail.com",
+      "password": "$2a$10$m5v6EzYSw2byRUGI6SZWbe5VHByRQrOTj0SOW.fNcgOB2Esnx506q",
+      "username": "long",
+      "id": 4
+    },
+    {
+      "email": "long2@gmail.com",
+      "password": "$2a$10$ZlOjtWyp4JU4YJCDmUb9AOAQJuH1ZClMENXF0aKakqwOyEH5zybt.",
+      "username": "long",
+      "id": 5
+    },
+    {
+      "email": "long3@gmail.com",
+      "password": "$2a$10$kpPFhN1znMhDqrDrF7M.q.Y9jgpEd4h690mpq21Awi42EwIcQe14C",
+      "username": "long123",
+      "id": 6
+    },
+    {
+      "email": "adasds@gmail.com",
+      "password": "$2a$10$EXXS1VAQ0GhKVbU9spEQSOsJYw/p2Tt6W8f9fZnlrKRqLtZxw5fwG",
+      "username": "ádasd",
+      "id": 7
+    },
+    {
+      "email": "ddasda@gmail.com",
+      "password": "$2a$10$5Ytkbu0MiMUSeF5QlguXguc4Tc.Rp8Ee2R0OgHtmRqcEV/1R41PCG",
+      "username": "đấ",
+      "id": 8
+    },
+    {
+      "email": "asdas@gmail.com",
+      "password": "$2a$10$udieAjZHN/hJ2r2fPfYzIeL6.LtM.rvbUyuJM8c38jlNcTp68F9Mm",
+      "username": "đá",
+      "id": 9
+    },
+    {
+      "email": "f@gmail.com",
+      "password": "$2a$10$QBKa5VkEk/56ys9KkaNZ3.EdSeDtM8vzFlcuDxjRA291/kl6xnVdW",
+      "username": "fsdf",
+      "id": 10
+    },
+    {
+      "email": "fsdf@gmail.com",
+      "password": "$2a$10$h6w6G0ORHbGX5f9K2xOrfebBzWnEM5.ChAeDHlZQVMMcwv53FwP7i",
+      "username": "sdfsdfs",
+      "id": 11
+    },
+    {
+      "email": "long2132@gmail.com",
+      "password": "$2a$10$eOzKnpGuXp0mJN3bRYYJi.rsYJcE6OMbL0d78gCYDFTJHfLYW2kH6",
+      "username": "longdsdfsd",
+      "id": 12
+    },
+    {
+      "email": "long35345@gmail.com",
+      "password": "$2a$10$AV/FubgbywoHJ5g2s6DnCeCVcX.b163pKisLeG/rUatfQPNjpsCgi",
+      "username": "longdsdfsd",
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Danh mục 1"
+    },
+    {
+      "id": 2,
+      "name": "Danh mục 2"
+    }
+  ]
+}
